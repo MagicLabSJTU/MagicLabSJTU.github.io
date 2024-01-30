@@ -1,0 +1,45 @@
+<script>
+(function() {
+    // 网站语言设置为中文后得到的中文页面中部分词汇表意不准确，需对部分词汇进行调整
+    function changeText() {
+        var subheadings = document.getElementsByClassName('section-subheading');
+        for (var i = 0; i < subheadings.length; i++) {
+            if (subheadings[i].textContent === '兴趣爱好') {
+                // 将文本 '兴趣爱好' 更改为 '研究方向'
+                subheadings[i].textContent = '研究方向';
+            }
+            if (subheadings[i].textContent === '教育经历') {
+                // 将文本 '教育经历' 更改为 '教育经历'
+                subheadings[i].textContent = '教育经历';
+            }
+        }
+        var h3elements = document.querySelectorAll('.article-widget.content-widget-hr h3');
+        h3elements.forEach(function(h3element) {
+            if (h3element.textContent === "最新") {
+                h3element.textContent = "论文列表";
+            }
+        });
+        var publicationLink = document.querySelector('.see-all a[href="/publication/"]');
+        if (publicationLink) {
+            // 查找<a>标签内的文本节点并更新它的值
+            var textNodes = [...publicationLink.childNodes].filter(node => node.nodeType === Node.TEXT_NODE);
+            if (textNodes.length > 0 && textNodes[0].nodeValue.includes('查看全部出版物')) {
+                textNodes[0].nodeValue = '查看全部 ';
+            }
+        }
+    }
+    // 将页面底部的share-box隐藏
+    function hideShareBoxes() {
+        var shareBoxes = document.querySelectorAll('.share-box');
+        shareBoxes.forEach(function(shareBox) {
+            shareBox.style.display = 'none';
+        });
+    }
+
+    // 在文档加载完毕后执行函数
+    document.addEventListener('DOMContentLoaded', function() {
+        changeText();
+        hideShareBoxes();
+    });
+})();
+</script>

@@ -1,0 +1,125 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# 可查看https://bootstrap.hugoblox.com/getting-started/customization/进行设置
+# Appearance
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  # 字体大小，xs, s, m, l, xl可选
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: ''
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_theme_chooser: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+# footer:
+#   copyright:
+#     notice: '© {year} Me. This work is licensed under {license}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
+
+# Localization
+# 日期和时间和地址格式设置
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '15:04'
+  address_format: en-us
+
+# Site features
+
+features:
+  # 代码高亮设置
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  # 数学表达式支持设置
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  # 头像设置，包括是否使用Gravatar和形状
+  avatar:
+    gravatar: false
+    # 头像显示形状：圆形：circle，方形：square
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+# 出版物引用风格 
+publications:
+  date_format: January 2006
+  citation_style: apa
