@@ -10,7 +10,7 @@ authors:
   - 王士林
 
 # 论文发表时间，年-月-日，大致即可
-date: '2024-03-01'
+date: '2024-03-02'
 
 # 论文类型， 可选：conference, journal
 publication_types: ['conference']
