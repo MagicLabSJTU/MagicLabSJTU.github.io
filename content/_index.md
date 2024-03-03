@@ -1,7 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: |
-    人工智能安全研究实验室·上海交通大学
+title:
 date: 20240130
 type: landing
 
