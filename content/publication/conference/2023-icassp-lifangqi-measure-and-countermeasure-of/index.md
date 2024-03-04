@@ -22,7 +22,7 @@ publication_types: ['conference']
 # 会议/期刊名称及缩写
 
 publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing 2023*
-publication_short: In *IEEE ICASSP 2023*
+publication_short: In *ICASSP 2023*
 
 # 论文摘要，不要有换行
 
