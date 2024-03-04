@@ -1,6 +1,6 @@
 ---
 # 论文完整标题
-title: 'CONTENT-INSENSITIVE DYNAMIC LIP FEATURE EXTRACTION FOR VISUAL SPEAKER AUTHENTICATION AGAINST DEEPFAKE ATTACKS'
+title: 'Content-Insensitive Dynamic Lip Feature Extraction for Visual Speaker Authentication against Deepfake Attacks'
 
 # 论文作者，此处仅需填写本实验室成员（包括王老师）即可，使用中文姓名
 authors:

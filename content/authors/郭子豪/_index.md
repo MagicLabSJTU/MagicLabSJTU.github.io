@@ -14,7 +14,7 @@ authors:
   - 郭子豪
 
 # 可选：博士研究生, 硕士研究生, 硕士研究生, 本科生, 毕业生
-role: 生
+role: 毕业生
 
 # Organizations/Affiliations
 organizations:

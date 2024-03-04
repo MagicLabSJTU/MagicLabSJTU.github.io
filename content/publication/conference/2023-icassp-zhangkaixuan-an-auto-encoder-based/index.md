@@ -1,6 +1,6 @@
 ---
 # 论文完整标题
-title: 'AN AUTO-ENCODER BASED METHOD FOR CAMERA FINGERPRINT COMPRESSION'
+title: 'An Auto-Encoder Based Method for Camera Fingerprint Compression'
 
 # 论文作者，此处仅需填写本实验室成员（包括王老师）即可，使用中文姓名
 authors:
