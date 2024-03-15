@@ -7,7 +7,7 @@ title: 郭子豪
 
 # Full name
 first_name: 子豪
-last_name: 郭
+last_name: 29郭
 
 # Username (this should match the folder name)
 authors:

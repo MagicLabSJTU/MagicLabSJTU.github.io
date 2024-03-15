@@ -6,8 +6,8 @@ superuser: false
 title: 许先伟
 
 # Full name
-first_name: 兴华
-last_name: 马
+first_name: 先伟
+last_name: 32许
 
 # Username (this should match the folder name)
 authors:

@@ -7,7 +7,7 @@ title: 马诗慧
 
 # Full name
 first_name: 诗慧
-last_name: 马
+last_name: 32马
 
 # Username (this should match the folder name)
 authors:
