@@ -17,7 +17,7 @@ authors: []
 | 01   | 2024/02/23 | /      | /        |
 | 02   | 2024/03/01 | /      | /        |
 | 03   | 2024/03/08 | 张天铄 | 论文：Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability （利用little-robustness提升对抗样本迁移性） |
-| 04   | 2024/03/15 | 陆千禧 |          |
+| 04   | 2024/03/15 | 陆千禧 | 论文：PersonaTalk: Preserving Personalized Dynamic Speech Style In Talking Face Generation （利用预训练的VQGAN码本生成高清讲话人脸视频） |
 | 05   | 2024/03/22 | 章杭炜 |          |
 | 06   | 2024/03/29 | 杨磊   |          |
 | 08   | 2024/04/12 | 武飞   |          |
