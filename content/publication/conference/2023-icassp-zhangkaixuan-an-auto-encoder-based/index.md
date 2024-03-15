@@ -6,6 +6,7 @@ title: 'An Auto-Encoder Based Method for Camera Fingerprint Compression'
 authors:
   - 张凯旋
   - 刘子涵
+  - 胡嘉尚
   - 王士林
 
 # 论文发表时间，年-月-日，大致即可
