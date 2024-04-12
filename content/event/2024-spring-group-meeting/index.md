@@ -20,8 +20,8 @@ authors: []
 | 04   | 2024/03/15 | 陆千禧 | 论文：LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook （利用预训练的VQGAN码本生成高清讲话人脸视频） |
 | 05   | 2024/03/22 | 章杭炜 | 论文：Deep Neural Network Watermarking against Model Extraction Attack （抗蒸馏的后门模型水印） |
 | 06   | 2024/03/28 | 杨磊   | 论文：An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement （中英文混杂的唇读，视位音位解耦，跨语言tokenizer） |
-| 07   | 2024/04/07 | 武飞   | 论文：SepMark: Deep Separable Watermarking for Unified Source Tracing and Deepfake Detection （深度伪造水印（鲁棒水印+脆弱水印） |
-| 08   | 2024/04/12 | 何怡   |                                                              |
+| 07   | 2024/04/07 | 武飞   | 论文：SepMark: Deep Separable Watermarking for Unified Source Tracing and Deepfake Detection （深度伪造水印（鲁棒水印+脆弱水印）） |
+| 08   | 2024/04/12 | 何怡   | 论文：Let There Be Sound: Reconstructing High Quality Speech from Silent Videos （Lip2Speech） |
 | 09   | 2024/04/19 | 王晗亦 |                                                              |
 | 10   | 2024/04/26 | 张卓萌 |                                                              |
 | 12   | 2024/05/10 | 刘子涵 |                                                              |
