@@ -22,8 +22,8 @@ authors: []
 | 06   | 2024/03/28 | 杨磊   | 论文：An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement （中英文混杂的唇读，视位音位解耦，跨语言tokenizer） |
 | 07   | 2024/04/07 | 武飞   | 论文：SepMark: Deep Separable Watermarking for Unified Source Tracing and Deepfake Detection （深度伪造水印（鲁棒水印+脆弱水印）） |
 | 08   | 2024/04/12 | 何怡   | 论文：Let There Be Sound: Reconstructing High Quality Speech from Silent Videos （Lip2Speech） |
-| 09   | 2024/04/19 | 王晗亦 |                                                              |
-| 10   | 2024/04/26 | 张卓萌 |                                                              |
+| 09   | 2024/04/19 | 王晗亦 | 在输入噪声中添加水印 |
+| 10   | 2024/04/26 | 张卓萌 | 论文：ManiFPT: Defining and Analyzing Fingerprints of Generative Models （基于伪影的生成图像模型指纹） |
 | 12   | 2024/05/10 | 刘子涵 |                                                              |
 | 13   | 2024/05/17 | 闫超博 |                                                              |
 | 14   | 2024/05/24 | 史开源 |                                                              |
