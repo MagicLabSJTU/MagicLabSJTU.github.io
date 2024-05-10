@@ -24,7 +24,7 @@ authors: []
 | 08   | 2024/04/12 | 何怡   | 论文：Let There Be Sound: Reconstructing High Quality Speech from Silent Videos （Lip2Speech） |
 | 09   | 2024/04/19 | 王晗亦 | 在输入噪声中添加水印 |
 | 10   | 2024/04/26 | 张卓萌 | 论文：ManiFPT: Defining and Analyzing Fingerprints of Generative Models （基于伪影的生成图像模型指纹） |
-| 12   | 2024/05/10 | 刘子涵 |                                                              |
+| 12   | 2024/05/10 | 刘子涵 | 基于多模态预训练模型的伪造图片检测 |
 | 13   | 2024/05/17 | 闫超博 |                                                              |
 | 14   | 2024/05/24 | 史开源 |                                                              |
 | 15   | 2024/05/31 |        |                                                              |
