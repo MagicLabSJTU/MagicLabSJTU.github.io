@@ -25,7 +25,7 @@ authors: []
 | 09   | 2024/04/19 | 王晗亦 | 在输入噪声中添加水印 |
 | 10   | 2024/04/26 | 张卓萌 | 论文：ManiFPT: Defining and Analyzing Fingerprints of Generative Models （基于伪影的生成图像模型指纹） |
 | 12   | 2024/05/10 | 刘子涵 | 基于多模态预训练模型的伪造图片检测 |
-| 13   | 2024/05/17 | 闫超博 | 论文：Functional Invariants to Watermark Large Transformers （利用功能不变性水印Transformer大模型） |
+| 13   | 2024/05/17 | 闫超博 | 论文：Functional Invariants to Watermark Large Transformers （将水印信息嵌入等性能变换中） |
 | 14   | 2024/05/24 | /     |                                                              |
 | 15   | 2024/05/31 | 史开源 |                                                              |
-| 16   | 2024/06/07 | 李方圻 |                                                              |
+| 16   | 2024/06/07 |  |                                                              |
