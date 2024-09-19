@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 人工智能安全研究实验室·上海交通大学 # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://magiclabsjtu.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

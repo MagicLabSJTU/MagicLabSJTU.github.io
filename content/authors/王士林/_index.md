@@ -12,6 +12,8 @@ last_name: 王
 # Role/position
 role: 教授
 
+grade: 1998
+
 # Organizations/Affiliations
 organizations:
   - name: 上海交通大学

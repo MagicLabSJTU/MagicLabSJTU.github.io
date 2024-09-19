@@ -16,8 +16,8 @@ sections:
           - 硕士研究生
           - 本科生
           - 毕业生
-      sort_by: Params.last_name
-      sort_ascending: true
+      sort_by: Params.grade
+      sort_ascending: false
     design:
       show_role: true
       show_interests: false

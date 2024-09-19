@@ -6,7 +6,7 @@
 # en:
 #   languageCode: en-us
 zh:
- languageCode: zh-Hans
+ languageCode: zh
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

@@ -13,8 +13,11 @@ last_name: 史
 authors:
   - 史开源
 
-# 可选：博士研究生, 硕士研究生, 硕士研究生, 本科生, 毕业生
-role: 本科生
+# 可选：博士研究生, 硕士研究生, 本科生, 毕业生
+role: 硕士研究生
+
+# 入学年份
+grade: 2024
 
 # Organizations/Affiliations
 organizations:
@@ -39,9 +42,9 @@ social:
     icon_pack: fas
     link: 'mailto:sky0722@sjtu.edu.cn'
 
-# 可选：博士研究生, 硕士研究生, 硕士研究生, 本科生, 毕业生，与role部分保持一致
+# 可选：博士研究生, 硕士研究生, 本科生, 毕业生，与role部分保持一致
 user_groups:
-  - 本科生
+  - 硕士研究生
 ---
 
 史开源，上海交通大学信息安全专业本科生，在王士林教授的指导下，当前主要研究方向为神经网络水印、机器生成文本溯源。

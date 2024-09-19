@@ -7,7 +7,7 @@ title: 杨佳娜
 
 # Full name
 first_name: 佳娜
-last_name: 33杨
+last_name: 杨
 
 # Username (this should match the folder name)
 authors:
@@ -15,6 +15,9 @@ authors:
 
 # 可选：博士研究生, 硕士研究生, 硕士研究生, 本科生, 毕业生
 role: 毕业生
+
+# 入学年份
+grade: 2017
 
 # Organizations/Affiliations
 organizations:
